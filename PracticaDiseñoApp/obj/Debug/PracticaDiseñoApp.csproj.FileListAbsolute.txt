@@ -1,0 +1,10 @@
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\bin\Debug\PracticaDiseñoApp.exe.config
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\bin\Debug\PracticaDiseñoApp.exe
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\bin\Debug\PracticaDiseñoApp.pdb
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.csproj.AssemblyReference.cache
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.Form1.resources
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.Properties.Resources.resources
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.csproj.GenerateResource.cache
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.csproj.CoreCompileInputs.cache
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.exe
+C:\Users\Madeline Rivas\source\repos\PracticaDiseñoApp\obj\Debug\PracticaDiseñoApp.pdb
